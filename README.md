@@ -25,3 +25,7 @@ A count of each DataFrame yielded 90 paid(Vine) reviews and 37,831 unpaid review
 The number of 5 Star reviews was calculated for each, 44 5 Star paid reviews and 14704 5 Star unpaid reviews.
 ![Five Star Reviews](Resources/each_review_count.png)
 
+And the percentage of 5 Star reviews was 48.89% for paid and 38.87% for unpaid.
+![Five Star Review Percentage](Resources/percent_reviews.png)
+
+## Summary
