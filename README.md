@@ -9,7 +9,7 @@ In this project an analysis is performed on Amaozon Vine program to check if the
 - Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
 
 ## Results
-After cleaning the data, a paid and unpaid DataFrame was created. The first 20 rows of each are shown in the images below:
+A paid and unpaid DataFrame is created, after the data is cleaned and sorted. The first 20 rows of each is shown below:
 
 ![Paid Dataframe](Resources/paid_df.png)
 
@@ -19,7 +19,8 @@ Paid DataFrame
 
 Unpaid DataFrame
 
-A count of each DataFrame yielded 90 paid(Vine) reviews and 37,831 unpaid reviews. This is show below:
+A count of each DataFrame yielded 90 paid (Vine) reviews and 37,831 unpaid reviews.
+
 ![Paid and Unpaid Review Count](Resources/paid_unpaid_reviews.png)
 
 The number of 5 Star reviews was calculated for each, 44 5 Star paid reviews and 14704 5 Star unpaid reviews.
