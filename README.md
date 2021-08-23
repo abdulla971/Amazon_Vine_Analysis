@@ -30,3 +30,5 @@ And the percentage of 5 Star reviews was 48.89% for paid and 38.87% for unpaid.
 
 ## Summary
 The conclusions that can be obtained from the dataset include: there apears to be some form of bias for posisitve paid reviews, with a 10% higher for paid versus unpaid reviews. It is well noted that there is 90 paid reviews, compared to the much higher 37,000 unpaid. To put it into persepctive there is one piad review for each 420 unpaid ones; therefore seeking a larger paid sample set may be better for the analhysis.
+
+To further improve our analysis we might be intrested in stdying another category of reviews other than video games such as electronics to help mitigate numerical differences.
