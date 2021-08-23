@@ -22,3 +22,6 @@ Unpaid DataFrame
 A count of each DataFrame yielded 90 paid(Vine) reviews and 37,831 unpaid reviews. This is show below:
 ![Paid and Unpaid Review Count](Resources/paid_unpaid_reviews.png)
 
+The number of 5 Star reviews was calculated for each, 44 5 Star paid reviews and 14704 5 Star unpaid reviews.
+![Five Star Reviews](Resources/each_review_count.png)
+
