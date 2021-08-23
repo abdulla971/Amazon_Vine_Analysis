@@ -13,3 +13,7 @@ After cleaning the data, a paid and unpaid DataFrame was created. The first 20 r
 
 ![Paid Dataframe](Resources/paid_df.png)
 
+Paid DataFrame
+
+![Unpaid DataFrame](Resources/unpaid_df.png)
+
