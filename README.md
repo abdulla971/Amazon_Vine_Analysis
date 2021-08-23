@@ -10,3 +10,6 @@ In this project an analysis is performed on Amaozon Vine program to check if the
 
 ## Results
 After cleaning the data, a paid and unpaid DataFrame was created. The first 20 rows of each are shown in the images below:
+
+![Paid Dataframe](Resources/paid_df.png)
+
